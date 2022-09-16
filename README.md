@@ -13,4 +13,5 @@ Projeto construido no envento Next Level Week da Rocketseat.
 
 ## Contato
 
-candadoleo@gmail.com
+✉️ [Email](candadoleo@gmail.com)
+🌎 [LinkedIn](https://www.linkedin.com/in/leonardo-candado-cea-53883417b/)
